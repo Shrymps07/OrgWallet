@@ -40,7 +40,7 @@ Name and email fields (optional) are used only as in-app identifiers.
 ## 💾 Download
 You can download the latest version below:
 
-➡️ [**Download OrgWallet_v1.0.apk**](./OrgWallet_v1.0.apk)
+➡️ [**Download OrgWallet_v1.0.apk**](https://github.com/Shrymps07/OrgWallet/releases/tag/v1.0)
 
 ---
 
