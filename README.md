@@ -32,7 +32,7 @@ OrgWallet stores data securely using **Firebase**, with all transfers encrypted 
 The app does **not** display ads, use analytics trackers, or collect sensitive personal information.  
 Name and email fields (optional) are used only as in-app identifiers.
 
-🔒 **Privacy Policy:** [View here](https://yourusername.github.io/orgwallet-privacy)  
+🔒 **Privacy Policy:** [View here](https://github.com/Shrymps07/OrgWallet/blob/main/privacy-policy.md)  
 📧 **Contact:** jack.orgwallet@gmail.com  
 
 ---
