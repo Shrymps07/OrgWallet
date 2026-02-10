@@ -33,7 +33,7 @@ The app does **not** display ads, use analytics trackers, or collect sensitive p
 Name and email fields (optional) are used only as in-app identifiers.
 
 🔒 **Privacy Policy:** [View here](https://yourusername.github.io/orgwallet-privacy)  
-📧 **Contact:** orgwallet.app@gmail.com  
+📧 **Contact:** jack.orgwallet@gmail.com  
 
 ---
 
